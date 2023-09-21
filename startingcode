@@ -1,0 +1,8 @@
+//Code For Workcube
+
+#include <PRIZM.h>  //Link up the library
+PRIZM Deakin;        //Declare objexct (reference tp prizm)
+
+void start(){
+
+void loop(){
